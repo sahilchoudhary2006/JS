@@ -40,5 +40,5 @@ const IceTEa = 100
 
 IceTEa >=80 ? console.log("less than 80") : console.log("more than 80")
 
-// 
+// done
 //  done 
