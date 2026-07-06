@@ -1,6 +1,7 @@
 document.getElementById('clock')
 // document.querySelector('#clock')
 
+
 setInterval(function(){
 
 let date = new Date()
